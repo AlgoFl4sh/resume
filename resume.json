@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "theme": "kendall"
+  },
+  "basics": {
+    "name": "Matthieu Sola",
+    "phone": "TBD",
+    "label": "Data and Product Manager",
+    "image": "",
+    "summary": "Program Manager with extensive experience leading complex, cross-functional projects involving data, AI, and machine learning. Skilled in managing products and programs with multiple dependencies, coordinating diverse teams, and driving successful outcomes across large-scale initiatives. Proven track record in navigating technical challenges, aligning strategies with business goals, and fostering collaboration among technical, product, and executive stakeholders.",
+    "website": "",
+    "url": "",
+    "email": "matthieu.sola@gmail.com",
+    "location": {
+      "city": "Montreal",
+      "countryCode": "CA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mattsola",
+        "url": "https://www.linkedin.com/in/mattsola"
+      }
+    ]
+  },
+  "certificates": [
+    {
+      "name": "Deep Learning Specialization",
+      "date": "",
+      "issuer": "Coursera",
+      "url": ""
+    },
+    {
+      "name": "Python Course Completion",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "École Polytechnique de Montréal",
+      "area": "Composite Materials",
+      "studyType": "Master of Engineering",
+      "startDate": "2008",
+      "endDate": "2011",
+      "details": "Specialized in data analysis and visualization for materials science; published 3 scientific articles."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "Python (Pandas, Numpy, scikit-learn, Plotly)",
+        "R"
+      ]
+    },
+    {
+      "name": "Data Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Tableau",
+        "SQL",
+        "Databricks",
+        "Hadoop"
+      ]
+    },
+    {
+      "name": "Other Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Agile methodologies",
+        "Product management",
+        "AI/ML",
+        "CRM",
+        "Data visualization"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Ubisoft",
+      "location": "Montreal, Canada",
+      "position": "Program Manager",
+      "startDate": "2024-01",
+      "summary": "Leading a major migration from Hadoop to Databricks, managing 50+ contributors across 11 project teams.",
+      "highlights": [
+        "Organizing QBRs and steering committees for executive leadership.",
+        "Communicating with 800+ members of the Ubisoft data community."
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "location": "Montreal, Canada",
+      "position": "Senior Data Product Manager",
+      "startDate": "2021-05",
+      "endDate": "2023-12",
+      "summary": "Developed CRM engagement and personalized store recommendations, boosting in-game engagement by 3%+.",
+      "highlights": [
+        "Built and led a data science team (40 members), defining mission, vision, and processes for better CRM targeting and customer insights."
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "location": "Montreal, Canada",
+      "position": "Data Scientist",
+      "startDate": "2019-02",
+      "endDate": "2021-04",
+      "summary": "Designed CRM scoring models that improved open rates and click-through rates, delivering targeted player engagement strategies."
+    },
+    {
+      "name": "CCM Hockey",
+      "location": "Montreal, Canada",
+      "position": "Product Developer, Sticks",
+      "startDate": "2011-06",
+      "endDate": "2019-02",
+      "summary": "Led the development of composite hockey sticks, including the Premier goalie series, dominating NHL usage.",
+      "highlights": [
+        "Pioneered the CCM Performance Lab, advancing biomechanics research for better player performance.",
+        "Enhanced internal processes and data visualization tools, driving product development efficiency."
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Advanced"
+    }
+  ]
+}
