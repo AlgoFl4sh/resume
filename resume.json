@@ -6,7 +6,7 @@
     "name": "Matthieu Sola",
     "phone": "TBD",
     "label": "Data and Product Manager",
-    "summary": "Program Manager with extensive experience leading complex, cross-functional projects involving data, AI, and machine learning. Skilled in managing products and programs with multiple dependencies, coordinating diverse teams, and driving successful outcomes across large-scale initiatives. Proven track record in navigating technical challenges, aligning strategies with business goals, and fostering collaboration among technical, product, and executive stakeholders.",
+    "summary": "Experienced Data and Program Manager with a strong track record in strategic vision, data-driven program leadership, and cross-functional team management. Proven expertise in enhancing user security and engagement through data insights, collaboration with internal and external partners, and alignment with best practices across digital and gaming environments. Adept at translating complex analytics into actionable strategies to foster safe and dynamic user communities.",
     "url": "https://www.linkedin.com/in/mattsola",
     "email": "matthieu.sola@gmail.com",
     "location": {
@@ -73,12 +73,13 @@
     {
       "name": "Ubisoft",
       "location": "Montreal, Canada",
-      "position": "Program Manager",
+      "position": "Sr Program Manager",
       "startDate": "2024-01",
-      "summary": "Leading a major migration from Hadoop to Databricks, managing 50+ contributors across 11 project teams.",
+      "summary": "Leading the enterprise-wide migration from Hadoop to Databricks, overseeing 50+ contributors across 11 project teams to drive faster, scalable data analytics and streamline data infrastructure for long-term performance gains.",
       "highlights": [
-        "Organizing QBRs and steering committees for executive leadership.",
-        "Communicating with 800+ members of the Ubisoft data community."
+        "Coordinated cross-functional milestones for the program, ensuring alignment across users, developers and executive teams while remaining under budget.",
+        "Organized QBRs and steering committees for executive leadership.",
+        "Communicated via video, emails and Teams announces with 800+ members of the Ubisoft data community."
       ]
     },
     {
@@ -87,9 +88,10 @@
       "position": "Senior Data Product Manager",
       "startDate": "2021-05",
       "endDate": "2023-12",
-      "summary": "Developed CRM engagement and personalized store recommendations, boosting in-game engagement by 3%+.",
-      "highlights": [
-        "Built and led a data science team (40 members), defining mission, vision, and processes for better CRM targeting and customer insights."
+      "summary": "Served as Product Manager for ML products, leading efforts to define and communicate the vision and mission of a newly established Machine Learning team, fostering alignment across technical and business stakeholders.",
+      "highlights": ["Defined and led the development of a safety feature using machine learning to detect toxic usernames, collaborating closely with CRC and OS Sanction teams to enhance enforcement capabilities and align with community standards.","Led company-level moderation steering committee to coordinate safety initiatives and enforce content moderation policies; active participant in text moderation discussions to address challenges and improve toxicity detection processes.",
+        "Facilitated the transformation of a data science team (40 members), defining mission, vision, and processes for standardization of Machine Learning at Ubisoft.",
+        "Defined and communicated vision for cross-functional CRM strategy, aligning with business goals to enhance user engagement and data-driven decision-making."
       ]
     },
     {
@@ -98,7 +100,8 @@
       "position": "Data Scientist",
       "startDate": "2019-02",
       "endDate": "2021-04",
-      "summary": "Designed CRM scoring models that improved open rates and click-through rates, delivering targeted player engagement strategies."
+      "summary": "Designed CRM scoring models that improved open rates and click-through rates, delivering targeted player engagement strategies.",
+      "highlights": ["Developed CRM engagement and personalized store recommendations, boosting in-game engagement by 3%+."]
     },
     {
       "name": "CCM Hockey",
