@@ -1,12 +1,12 @@
 {
   "meta": {
-    "theme": "kendall"
+    "theme": "relaxed"
   },
   "basics": {
     "name": "Matthieu Sola",
     "phone": "TBD",
     "label": "Data and Product Manager",
-    "summary": "Experienced Data and Program Manager with a strong track record in strategic vision, data-driven program leadership, and cross-functional team management. Proven expertise in enhancing user security and engagement through data insights, collaboration with internal and external partners, and alignment with best practices across digital and gaming environments. Adept at translating complex analytics into actionable strategies to foster safe and dynamic user communities.",
+    "summary": "Data and Program Manager with hands-on experience leading data-driven projects and managing cross-functional teams. Skilled at improving user engagement by working closely with partners and using data insights to guide decisions. Known for turning complex analytics into clear, practical strategies that help build better products in digital and gaming spaces.",
     "url": "https://www.linkedin.com/in/mattsola",
     "email": "matthieu.sola@gmail.com",
     "location": {
@@ -23,6 +23,10 @@
   },
   "certificates": [
     {
+      "name": "Product Management for AI and Data Science",
+      "date": "2021-07-01",
+      "issuer": "Udemy"
+    },{
       "name": "Deep Learning Specialization",
       "date": "2020-04-01",
       "issuer": "Coursera"
@@ -43,7 +47,7 @@
       "name": "Programming",
       "level": "Advanced",
       "keywords": [
-        "Python (Pandas, Numpy, scikit-learn, Plotly)",
+        "Python (Pandas, Numpy, scikit-learn, Plotly, PySpark)",
         "R"
       ]
     },
@@ -65,7 +69,8 @@
         "Product management",
         "AI/ML",
         "CRM",
-        "Data visualization"
+        "Data visualization",
+        "Cross-functional program management"
       ]
     }
   ],
@@ -89,7 +94,9 @@
       "startDate": "2021-05",
       "endDate": "2023-12",
       "summary": "Served as Product Manager for ML products, leading efforts to define and communicate the vision and mission of a newly established Machine Learning team, fostering alignment across technical and business stakeholders.",
-      "highlights": ["Defined and led the development of a safety feature using machine learning to detect toxic usernames, collaborating closely with CRC and OS Sanction teams to enhance enforcement capabilities and align with community standards.","Led company-level moderation steering committee to coordinate safety initiatives and enforce content moderation policies; active participant in text moderation discussions to address challenges and improve toxicity detection processes.",
+      "highlights": [
+        "Defined and led the development of a safety feature using machine learning to detect toxic usernames, collaborating closely with CRC and OS teams to enhance enforcement capabilities and align with community standards.",
+        "Led company-level moderation steering committee to coordinate safety initiatives and enforce content moderation policies; active participant in text moderation discussions to address challenges and improve toxicity detection processes.",
         "Facilitated the transformation of a data science team (40 members), defining mission, vision, and processes for standardization of Machine Learning at Ubisoft.",
         "Defined and communicated vision for cross-functional CRM strategy, aligning with business goals to enhance user engagement and data-driven decision-making."
       ]
@@ -101,7 +108,10 @@
       "startDate": "2019-02",
       "endDate": "2021-04",
       "summary": "Designed CRM scoring models that improved open rates and click-through rates, delivering targeted player engagement strategies.",
-      "highlights": ["Developed CRM engagement and personalized store recommendations, boosting in-game engagement by 3%+."]
+      "highlights": [
+        "Deep understanding of digital and gaming communities, enhancing ad-hoc CRM models to drive personalized engagement strategies for Ubisoft’s player base.",
+        "Developed CRM engagement and personalized store recommendations, boosting in-game engagement by 3%+."
+      ]
     },
     {
       "name": "CCM Hockey",
@@ -111,7 +121,7 @@
       "endDate": "2019-02",
       "summary": "Led the development of composite hockey sticks, including the Premier goalie series, dominating NHL usage.",
       "highlights": [
-        "Pioneered the CCM Performance Lab, advancing biomechanics research for better player performance.",
+        "Pioneered the CCM Performance Lab - a motion capture lab, advancing biomechanics research for better player performance.",
         "Enhanced internal processes and data visualization tools, driving product development efficiency."
       ]
     }
