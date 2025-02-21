@@ -5,8 +5,8 @@
   "basics": {
     "name": "Matthieu Sola",
     "phone": "TBD",
-    "label": "Data and Product Manager",
-    "summary": "Data and Program Manager with hands-on experience leading data-driven projects and managing cross-functional teams. Skilled at improving user engagement by working closely with partners and using data insights to guide decisions. Known for turning complex analytics into clear, practical strategies that help build better products in digital and gaming spaces.",
+    "label": "Senior Program Manager",
+    "summary": "Senior Program Manager with 13+ years of experience leading enterprise-wide initiatives and managing cross-functional stakeholder relationships. Proven track record of implementing AI/ML solutions and driving customer-focused strategies through data-driven insights. Expert at coordinating complex technical projects while maintaining clear communication with executive teams and end users.",
     "url": "https://www.linkedin.com/in/mattsola",
     "email": "matthieu.sola@gmail.com",
     "location": {
@@ -26,10 +26,122 @@
       "name": "Product Management for AI and Data Science",
       "date": "2021-07-01",
       "issuer": "Udemy"
-    },{
+    },
+    {
       "name": "Deep Learning Specialization",
       "date": "2020-04-01",
       "issuer": "Coursera"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer Engagement & Leadership",
+      "level": "Advanced",
+      "keywords": [
+        "Stakeholder management",
+        "Executive communication",
+        "Cross-functional leadership",
+        "Strategic initiative planning",
+        "Customer relationship management",
+        "Project documentation",
+        "Meeting facilitation"
+      ]
+    },
+    {
+      "name": "AI & Technical Skills",
+      "level": "Advanced",
+      "keywords": [
+        "AI/ML implementation",
+        "Data-driven decision making",
+        "Python (Pandas, Numpy, scikit-learn, Plotly, PySpark)",
+        "Databricks",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Advanced",
+      "keywords": [
+        "Agile methodologies",
+        "Change management",
+        "KPI tracking & reporting",
+        "Risk management",
+        "Strategic planning"
+      ]
+    }
+  ],
+  "keyProjects": [
+    {
+      "name": "Enterprise Data Platform Migration",
+      "highlights": [
+        "Led migration from Hadoop to Databricks affecting 800+ users",
+        "Managed $5M+ budget while coordinating 11 cross-functional teams",
+        "Achieved 90% stakeholder satisfaction through strategic communication"
+      ]
+    },
+    {
+      "name": "ML Safety Initiative",
+      "highlights": [
+        "Spearheaded implementation of AI-powered safety features",
+        "Aligned multiple stakeholders across CRC and OS teams",
+        "Delivered measurable improvements in community standards enforcement"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Ubisoft",
+      "location": "Montreal, Canada",
+      "position": "Sr Program Manager",
+      "startDate": "2024-01",
+      "summary": "Leading enterprise-wide digital transformation initiatives while managing relationships with 50+ stakeholders across multiple teams. Drive successful implementation of modern data analytics infrastructure while ensuring alignment between technical capabilities and business objectives.",
+      "highlights": [
+        "Manage relationships with 50+ stakeholders across 11 project teams, ensuring clear communication and alignment of objectives throughout the migration from Hadoop to Databricks",
+        "Lead quarterly business reviews and steering committees, presenting strategic roadmaps and progress updates to executive leadership",
+        "Achieved 90%+ stakeholder satisfaction through strategic communication initiatives reaching 800+ members of the Ubisoft data community",
+        "Developed comprehensive change management strategy to minimize disruption during platform transition"
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "location": "Montreal, Canada",
+      "position": "Senior Data Product Manager",
+      "startDate": "2021-05",
+      "endDate": "2023-12",
+      "summary": "Led strategic AI/ML initiatives while managing relationships with key stakeholders across technical and business teams. Drove implementation of customer-focused features while ensuring alignment with organizational objectives.",
+      "highlights": [
+        "Partnered with CRC and OS teams to enhance customer safety features, leading to improved user experience and community standards through AI-powered solutions",
+        "Led organizational transformation of 40-member data science team, implementing new processes and fostering buy-in across multiple departments",
+        "Developed and presented comprehensive project documentation and success metrics to executive stakeholders",
+        "Chaired company-level moderation steering committee, coordinating safety initiatives across multiple business units",
+        "Defined and communicated vision for cross-functional CRM strategy, resulting in enhanced user engagement metrics"
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "location": "Montreal, Canada",
+      "position": "Data Scientist",
+      "startDate": "2019-02",
+      "endDate": "2021-04",
+      "summary": "Spearheaded development of data-driven customer engagement strategies, delivering measurable improvements in user interaction and satisfaction.",
+      "highlights": [
+        "Designed and implemented customer engagement strategies that increased user interaction by 3%+",
+        "Translated complex data insights into actionable recommendations for stakeholder teams",
+        "Developed and maintained CRM scoring models, improving campaign effectiveness through personalized targeting"
+      ]
+    },
+    {
+      "name": "CCM Hockey",
+      "location": "Montreal, Canada",
+      "position": "Product Developer, Sticks",
+      "startDate": "2011-06",
+      "endDate": "2019-02",
+      "summary": "Led cross-functional product development initiatives while managing relationships with professional athletes and technical teams.",
+      "highlights": [
+        "Established and managed the CCM Performance Lab, coordinating with multiple stakeholders to advance product development",
+        "Led documentation and presentation of technical specifications to internal teams and external partners",
+        "Implemented data-driven approach to product development, resulting in market-leading product adoption"
+      ]
     }
   ],
   "education": [
@@ -40,90 +152,6 @@
       "startDate": "2008",
       "endDate": "2011",
       "details": "Specialized in data analysis and visualization for materials science; published 3 scientific articles."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Advanced",
-      "keywords": [
-        "Python (Pandas, Numpy, scikit-learn, Plotly, PySpark)",
-        "R"
-      ]
-    },
-    {
-      "name": "Data Tools",
-      "level": "Advanced",
-      "keywords": [
-        "Tableau",
-        "SQL",
-        "Databricks",
-        "Hadoop"
-      ]
-    },
-    {
-      "name": "Other Skills",
-      "level": "Advanced",
-      "keywords": [
-        "Agile methodologies",
-        "Product management",
-        "AI/ML",
-        "CRM",
-        "Data visualization",
-        "Cross-functional program management"
-      ]
-    }
-  ],
-  "work": [
-    {
-      "name": "Ubisoft",
-      "location": "Montreal, Canada",
-      "position": "Sr Program Manager",
-      "startDate": "2024-01",
-      "summary": "Leading the enterprise-wide migration from Hadoop to Databricks, overseeing 50+ contributors across 11 project teams to drive faster, scalable data analytics and streamline data infrastructure for long-term performance gains.",
-      "highlights": [
-        "Coordinated cross-functional milestones for the program, ensuring alignment across users, developers and executive teams while remaining under budget.",
-        "Organized QBRs and steering committees for executive leadership.",
-        "Communicated via video, emails and Teams announces with 800+ members of the Ubisoft data community."
-      ]
-    },
-    {
-      "name": "Ubisoft",
-      "location": "Montreal, Canada",
-      "position": "Senior Data Product Manager",
-      "startDate": "2021-05",
-      "endDate": "2023-12",
-      "summary": "Served as Product Manager for ML products, leading efforts to define and communicate the vision and mission of a newly established Machine Learning team, fostering alignment across technical and business stakeholders.",
-      "highlights": [
-        "Defined and led the development of a safety feature using machine learning to detect toxic usernames, collaborating closely with CRC and OS teams to enhance enforcement capabilities and align with community standards.",
-        "Led company-level moderation steering committee to coordinate safety initiatives and enforce content moderation policies; active participant in text moderation discussions to address challenges and improve toxicity detection processes.",
-        "Facilitated the transformation of a data science team (40 members), defining mission, vision, and processes for standardization of Machine Learning at Ubisoft.",
-        "Defined and communicated vision for cross-functional CRM strategy, aligning with business goals to enhance user engagement and data-driven decision-making."
-      ]
-    },
-    {
-      "name": "Ubisoft",
-      "location": "Montreal, Canada",
-      "position": "Data Scientist",
-      "startDate": "2019-02",
-      "endDate": "2021-04",
-      "summary": "Designed CRM scoring models that improved open rates and click-through rates, delivering targeted player engagement strategies.",
-      "highlights": [
-        "Deep understanding of digital and gaming communities, enhancing ad-hoc CRM models to drive personalized engagement strategies for Ubisoft’s player base.",
-        "Developed CRM engagement and personalized store recommendations, boosting in-game engagement by 3%+."
-      ]
-    },
-    {
-      "name": "CCM Hockey",
-      "location": "Montreal, Canada",
-      "position": "Product Developer, Sticks",
-      "startDate": "2011-06",
-      "endDate": "2019-02",
-      "summary": "Led the development of composite hockey sticks, including the Premier goalie series, dominating NHL usage.",
-      "highlights": [
-        "Pioneered the CCM Performance Lab - a motion capture lab, advancing biomechanics research for better player performance.",
-        "Enhanced internal processes and data visualization tools, driving product development efficiency."
-      ]
     }
   ],
   "languages": [
