@@ -70,24 +70,6 @@
       ]
     }
   ],
-  "keyProjects": [
-    {
-      "name": "Enterprise Data Platform Migration",
-      "highlights": [
-        "Led migration from Hadoop to Databricks affecting 800+ users",
-        "Managed $5M+ budget while coordinating 11 cross-functional teams",
-        "Achieved 90% stakeholder satisfaction through strategic communication"
-      ]
-    },
-    {
-      "name": "ML Safety Initiative",
-      "highlights": [
-        "Spearheaded implementation of AI-powered safety features",
-        "Aligned multiple stakeholders across CRC and OS teams",
-        "Delivered measurable improvements in community standards enforcement"
-      ]
-    }
-  ],
   "work": [
     {
       "name": "Ubisoft",
