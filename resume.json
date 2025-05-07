@@ -4,14 +4,15 @@
   },
   "basics": {
     "name": "Matthieu Sola",
-    "phone": "TBD",
+    "phone": "4389350338",
     "label": "Senior Program Manager",
-    "summary": "Senior Program Manager with 13+ years of experience leading enterprise-wide initiatives and managing cross-functional stakeholder relationships. Proven track record of implementing AI/ML solutions and driving customer-focused strategies through data-driven insights. Expert at coordinating complex technical projects while maintaining clear communication with executive teams and end users.",
+    "summary": "Program and product leader with 8+ years of experience delivering data and AI/ML-driven programs, in analytics and player safety. Skilled in aligning cross-functional teams and creating strategies that balance concrete results and long term vision. Passionate about product development and using data to drive impactful change.",
     "url": "https://www.linkedin.com/in/mattsola",
     "email": "matthieu.sola@gmail.com",
     "location": {
       "city": "Montreal",
-      "countryCode": "CA"
+      "countryCode": "CA",
+      "region": "Québec"
     },
     "profiles": [
       {
@@ -76,12 +77,12 @@
       "location": "Montreal, Canada",
       "position": "Sr Program Manager",
       "startDate": "2024-01",
-      "summary": "Leading enterprise-wide digital transformation initiatives while managing relationships with 50+ stakeholders across multiple teams. Drive successful implementation of modern data analytics infrastructure while ensuring alignment between technical capabilities and business objectives.",
+      "summary": "Lead enterprise-wide digital transformation initiatives with a focus on data platforms, AI/ML integration, and cross-functional alignment. Manage the migration to modern data infrastructure while ensuring strategic coordination between technical capabilities and business needs. Expert in stakeholder management, change leadership, and governance frameworks to optimize data-driven decision-making across the organization.",
       "highlights": [
-        "Manage relationships with 50+ stakeholders across 11 project teams, ensuring clear communication and alignment of objectives throughout the migration from Hadoop to Databricks",
-        "Lead quarterly business reviews and steering committees, presenting strategic roadmaps and progress updates to executive leadership",
-        "Achieved 90%+ stakeholder satisfaction through strategic communication initiatives reaching 800+ members of the Ubisoft data community",
-        "Developed comprehensive change management strategy to minimize disruption during platform transition"
+        "Led a major migration from Hadoop to Databricks, coordinating 50+ contributors across 11 project teams",
+        "Delivered strategic updates and safety-impact metrics during quarterly reviews and steering committees",
+        "Built change management strategy and communication campaigns reaching 800+ internal users",
+        "Drove alignment between technical execution and company-wide player-focused priorities"
       ]
     },
     {
@@ -90,13 +91,12 @@
       "position": "Senior Data Product Manager",
       "startDate": "2021-05",
       "endDate": "2023-12",
-      "summary": "Led strategic AI/ML initiatives while managing relationships with key stakeholders across technical and business teams. Drove implementation of customer-focused features while ensuring alignment with organizational objectives.",
+      "summary": "Owned product strategy for AI/ML features improving player safety and community health. Partnered with internal safety stakeholders to deliver solutions for moderation, toxicity detection, and user protection. Defined mission and vision for an enterprise ML team.",
       "highlights": [
-        "Partnered with CRC and OS teams to enhance customer safety features, leading to improved user experience and community standards through AI-powered solutions",
-        "Led organizational transformation of 40-member data science team, implementing new processes and fostering buy-in across multiple departments",
-        "Developed and presented comprehensive project documentation and success metrics to executive stakeholders",
+        "Defined and delivered AI-powered username toxicity detection tools for customer service agents and online sanction services",
         "Chaired company-level moderation steering committee, coordinating safety initiatives across multiple business units",
-        "Defined and communicated vision for cross-functional CRM strategy, resulting in enhanced user engagement metrics"
+        "Established safety-oriented metrics and reporting used to track impact of interventions",
+        "Led organizational transformation of 40-member data science team, implementing new processes and fostering buy-in across multiple departments"
       ]
     },
     {
@@ -105,22 +105,23 @@
       "position": "Data Scientist",
       "startDate": "2019-02",
       "endDate": "2021-04",
-      "summary": "Spearheaded development of data-driven customer engagement strategies, delivering measurable improvements in user interaction and satisfaction.",
+      "summary": "Led development of data-driven customer engagement strategies, delivering measurable improvements in user interaction and satisfaction.",
       "highlights": [
         "Designed and implemented customer engagement strategies that increased user interaction by 3%+",
         "Translated complex data insights into actionable recommendations for stakeholder teams",
-        "Developed and maintained CRM scoring models, improving campaign effectiveness through personalized targeting"
+        "Developed and maintained CRM scoring models, improving campaign effectiveness through personalized targeting",
+        "Worked closely with teams across marketing, design, and support to translate insights into feature improvements and ultimately and engagement program that is still ongoing"
       ]
     },
     {
-      "name": "CCM Hockey",
+      "name": "Adidas",
       "location": "Montreal, Canada",
       "position": "Product Developer, Sticks",
       "startDate": "2011-06",
       "endDate": "2019-02",
-      "summary": "Led cross-functional product development initiatives while managing relationships with professional athletes and technical teams.",
+      "summary": "Led cross-functional product development phases (ideation, design, testing, industrialization) while managing relationships with professional athletes.",
       "highlights": [
-        "Established and managed the CCM Performance Lab, coordinating with multiple stakeholders to advance product development",
+        "Established and managed a motion capture Lab, coordinating with multiple stakeholders to advance product development",
         "Led documentation and presentation of technical specifications to internal teams and external partners",
         "Implemented data-driven approach to product development, resulting in market-leading product adoption"
       ]
@@ -131,9 +132,18 @@
       "institution": "École Polytechnique de Montréal",
       "area": "Composite Materials",
       "studyType": "Master of Engineering",
-      "startDate": "2008",
-      "endDate": "2011",
+      "startDate": "2008-01",
+      "endDate": "2011-04",
       "details": "Specialized in data analysis and visualization for materials science; published 3 scientific articles."
+    },
+    {
+      "institution": "Polytech Chambéry",
+      "area": "Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2004-09",
+      "endDate": "2007-10",
+      "score": "",
+      "courses": []
     }
   ],
   "languages": [
