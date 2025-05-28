@@ -159,5 +159,23 @@
       "language": "Italian",
       "fluency": "Advanced"
     }
+  ],
+  "volunteer": [
+    {
+      "organization": "Welcome Collective",
+      "startDate": "2023-01",
+      "endDate": "2024-02"
+    },
+    {
+      "organization": "Regroupement partage",
+      "startDate": "2020-01",
+      "endDate": "2022-12",
+      "summary": "Opération sac à dos"
+    },
+    {
+      "organization": "Opération Nez Rouge",
+      "startDate": "2023-12",
+      "endDate": "2024-01"
+    }
   ]
 }
